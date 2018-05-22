@@ -1,20 +1,3 @@
-# Struktura
-
-Ve složce `questions` leží soubory `backend.md` a `frontend.md`, kde jsou otázky na pohovory.
-V složce `tasks` leží také složky `backend` a `frontend`, které obsahují úkoly pro uchazeče.
-
-# Použití
-
-## Vstupní testy
-Stačí stáhnout projekt z `master` větve k sobě, rozbalit a zabalit slošku podle pozice (`backend` / `frontend`), na kterou se uchazeč hlásí.
-Ve složce `solutions` leží soubory `backend.md` a `frontend.md`, kde jsou sepsaná očekávání od řešení.
-## Otázky na pohovory
-Nejjednodušší je otevřít daný soubor s otázkami, zkopírovat markdown obsah a konvertovat do `pdf` ([zde](http://www.markdowntopdf.com/)).
-Dalším řešením je otevřít soubor s otázkami v gitlabu (tlačítko `open raw` při otevření souboru) a nechat vytisknout přes prohlížeč, lze uložit jako pdf s markdown strukturou, která je dobře čitelná.
-
-POPIS
-############################################################################################
-
 /*HTMl*/
 Niektoré link v hlavicke su mozno zbytocne, ale prenasam ich z page do page, a su to tie kt. sa casto hodia takmer vsade. Linkovane vacsinou cez CDN.
 
@@ -42,5 +25,4 @@ Viem že je lepšie štýlovať hlavne pomocou classes, pretože prehliadače "v
 
 Robil som v Sublime text 3, Windows 7
 
-Ostatné tasky s databázami(Laravelom) a programming task vo frontende kde je treba použiť myslím React zatiaľ neviem spraviť napriek tomu že som si pozeral videá a dokumentácie o Laravel.
 
